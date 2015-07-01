@@ -1,0 +1,270 @@
+[
+  {
+    "title": "🏃 Runner",
+    "icon": "🏃"
+  },
+  {
+    "title": "🚶 Pedestrian",
+    "icon": "🚶"
+  },
+  {
+    "title": "💃 Dancer",
+    "icon": "💃"
+  },
+  {
+    "title": "🚣 Rowboat",
+    "icon": "🚣"
+  },
+  {
+    "title": "🏊 Swimmer",
+    "icon": "🏊"
+  },
+  {
+    "title": "🏄 Surfer",
+    "icon": "🏄"
+  },
+  {
+    "title": "🛀 Bath",
+    "icon": "🛀"
+  },
+  {
+    "title": "🏂 Snowboarder",
+    "icon": "🏂"
+  },
+  {
+    "title": "🎿 Ski And Ski Boot",
+    "icon": "🎿"
+  },
+  {
+    "title": "⛄ Snowman Without Snow",
+    "icon": "⛄"
+  },
+  {
+    "title": "🚴 Bicyclist",
+    "icon": "🚴"
+  },
+  {
+    "title": "🚵 Mountain Bicyclist",
+    "icon": "🚵"
+  },
+  {
+    "title": "🏇 Horse Racing",
+    "icon": "🏇"
+  },
+  {
+    "title": "⛺ Tent",
+    "icon": "⛺"
+  },
+  {
+    "title": "🎣 Fishing Pole And Fish",
+    "icon": "🎣"
+  },
+  {
+    "title": "⚽ Soccer Ball",
+    "icon": "⚽"
+  },
+  {
+    "title": "🏀 Basketball And Hoop",
+    "icon": "🏀"
+  },
+  {
+    "title": "🏈 American Football",
+    "icon": "🏈"
+  },
+  {
+    "title": "⚾️ Baseball",
+    "icon": "⚾️"
+  },
+  {
+    "title": "🎾 Tennis Racquet And Ball",
+    "icon": "🎾"
+  },
+  {
+    "title": "🏉 Rugby Football",
+    "icon": "🏉"
+  },
+  {
+    "title": "⛳ Flag In Hole",
+    "icon": "⛳"
+  },
+  {
+    "title": "🏆 Trophy",
+    "icon": "🏆"
+  },
+  {
+    "title": "🎽 Running Shirt With Sash",
+    "icon": "🎽"
+  },
+  {
+    "title": "🏁 Chequered Flag",
+    "icon": "🏁"
+  },
+  {
+    "title": "🎹 Musical Keyboard",
+    "icon": "🎹"
+  },
+  {
+    "title": "🎸 Guitar",
+    "icon": "🎸"
+  },
+  {
+    "title": "🎻 Violin",
+    "icon": "🎻"
+  },
+  {
+    "title": "🎷 Saxophone",
+    "icon": "🎷"
+  },
+  {
+    "title": "🎺 Trumpet",
+    "icon": "🎺"
+  },
+  {
+    "title": "🎵 Musical Note",
+    "icon": "🎵"
+  },
+  {
+    "title": "🎶 Multiple Musical Notes",
+    "icon": "🎶"
+  },
+  {
+    "title": "🎼 Musical Score",
+    "icon": "🎼"
+  },
+  {
+    "title": "🎧 Headphone",
+    "icon": "🎧"
+  },
+  {
+    "title": "🎤 Microphone",
+    "icon": "🎤"
+  },
+  {
+    "title": "🎭 Performing Arts",
+    "icon": "🎭"
+  },
+  {
+    "title": "🎫 Ticket",
+    "icon": "🎫"
+  },
+  {
+    "title": "🎩 Top Hat",
+    "icon": "🎩"
+  },
+  {
+    "title": "🎪 Circus Tent",
+    "icon": "🎪"
+  },
+  {
+    "title": "🎬 Clapper Board",
+    "icon": "🎬"
+  },
+  {
+    "title": "🎨 Artist Palette",
+    "icon": "🎨"
+  },
+  {
+    "title": "🎯 Direct Hit",
+    "icon": "🎯"
+  },
+  {
+    "title": "🎱 Billiards",
+    "icon": "🎱"
+  },
+  {
+    "title": "🎳 Bowling",
+    "icon": "🎳"
+  },
+  {
+    "title": "🎰 Slot Machine",
+    "icon": "🎰"
+  },
+  {
+    "title": "🎲 Game Die",
+    "icon": "🎲"
+  },
+  {
+    "title": "🎮 Video Game",
+    "icon": "🎮"
+  },
+  {
+    "title": "🎴 Flower Playing Cards",
+    "icon": "🎴"
+  },
+  {
+    "title": "🃏 Playing Card Black Joker",
+    "icon": "🃏"
+  },
+  {
+    "title": "🀄 Mahjong Tile Red Dragon",
+    "icon": "🀄"
+  },
+  {
+    "title": "🎠 Carousel Horse",
+    "icon": "🎠"
+  },
+  {
+    "title": "🎡 Ferris Wheel",
+    "icon": "🎡"
+  },
+  {
+    "title": "🎢 Roller Coaster",
+    "icon": "🎢"
+  },
+  {
+    "title": "😃 People",
+    "icon": "😃"
+  },
+  {
+    "title": "🌲 Nature",
+    "icon": "🌲"
+  },
+  {
+    "title": "🍔 Food & Drink",
+    "icon": "🍔"
+  },
+  {
+    "title": "🎉 Celebration",
+    "icon": "🎉"
+  },
+  {
+    "title": "🏃🏿 Activity",
+    "icon": "🏃"
+  },
+  {
+    "title": "🌇 Travel & Places",
+    "icon": "🌇"
+  },
+  {
+    "title": "🔣 Objects & Symbols",
+    "icon": "🔣"
+  },
+  {
+    "icon": "🇯🇵"
+  },
+  {
+    "title": "🆕 New",
+    "icon": "🆕"
+  },
+  {
+    "title": "Click to share on Twitter"
+  },
+  {
+    "title": "Share on Facebook"
+  },
+  {
+    "title": "Click to share on Pinterest"
+  },
+  {
+    "title": "Click to share on Tumblr"
+  },
+  {
+    "title": "Click to share on Google+"
+  },
+  {
+    "title": "Click to share on Reddit"
+  },
+  {
+    "title": "Click to share on Pocket"
+  }
+]

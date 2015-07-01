@@ -1,0 +1,509 @@
+[
+  {
+    "title": "🚃 Railway Car",
+    "icon": "🚃"
+  },
+  {
+    "title": "🚞 Mountain Railway",
+    "icon": "🚞"
+  },
+  {
+    "title": "🚂 Steam Locomotive",
+    "icon": "🚂"
+  },
+  {
+    "title": "🚋 Tram Car",
+    "icon": "🚋"
+  },
+  {
+    "title": "🚝 Monorail",
+    "icon": "🚝"
+  },
+  {
+    "title": "🚄 High-Speed Train",
+    "icon": "🚄"
+  },
+  {
+    "title": "🚅 High-Speed Train With Bullet Nose",
+    "icon": "🚅"
+  },
+  {
+    "title": "🚆 Train",
+    "icon": "🚆"
+  },
+  {
+    "title": "🚇 Metro",
+    "icon": "🚇"
+  },
+  {
+    "title": "🚈 Light Rail",
+    "icon": "🚈"
+  },
+  {
+    "title": "🚉 Station",
+    "icon": "🚉"
+  },
+  {
+    "title": "🚊 Tram",
+    "icon": "🚊"
+  },
+  {
+    "title": "🚌 Bus",
+    "icon": "🚌"
+  },
+  {
+    "title": "🚍 Oncoming Bus",
+    "icon": "🚍"
+  },
+  {
+    "title": "🚎 Trolleybus",
+    "icon": "🚎"
+  },
+  {
+    "title": "🚐 Minibus",
+    "icon": "🚐"
+  },
+  {
+    "title": "🚑 Ambulance",
+    "icon": "🚑"
+  },
+  {
+    "title": "🚒 Fire Engine",
+    "icon": "🚒"
+  },
+  {
+    "title": "🚓 Police Car",
+    "icon": "🚓"
+  },
+  {
+    "title": "🚔 Oncoming Police Car",
+    "icon": "🚔"
+  },
+  {
+    "title": "🚨 Police Cars Revolving Light",
+    "icon": "🚨"
+  },
+  {
+    "title": "🚕 Taxi",
+    "icon": "🚕"
+  },
+  {
+    "title": "🚖 Oncoming Taxi",
+    "icon": "🚖"
+  },
+  {
+    "title": "🚗 Automobile",
+    "icon": "🚗"
+  },
+  {
+    "title": "🚘 Oncoming Automobile",
+    "icon": "🚘"
+  },
+  {
+    "title": "🚙 Recreational Vehicle",
+    "icon": "🚙"
+  },
+  {
+    "title": "🚚 Delivery Truck",
+    "icon": "🚚"
+  },
+  {
+    "title": "🚛 Articulated Lorry",
+    "icon": "🚛"
+  },
+  {
+    "title": "🚜 Tractor",
+    "icon": "🚜"
+  },
+  {
+    "title": "🚲 Bicycle",
+    "icon": "🚲"
+  },
+  {
+    "title": "🚏 Bus Stop",
+    "icon": "🚏"
+  },
+  {
+    "title": "⛽ Fuel Pump",
+    "icon": "⛽"
+  },
+  {
+    "title": "🚧 Construction Sign",
+    "icon": "🚧"
+  },
+  {
+    "title": "🚦 Vertical Traffic Light",
+    "icon": "🚦"
+  },
+  {
+    "title": "🚥 Horizontal Traffic Light",
+    "icon": "🚥"
+  },
+  {
+    "title": "🚀 Rocket",
+    "icon": "🚀"
+  },
+  {
+    "title": "🚁 Helicopter",
+    "icon": "🚁"
+  },
+  {
+    "title": "✈️ Airplane",
+    "icon": "✈️"
+  },
+  {
+    "title": "💺 Seat",
+    "icon": "💺"
+  },
+  {
+    "title": "⚓ Anchor",
+    "icon": "⚓"
+  },
+  {
+    "title": "🚢 Ship",
+    "icon": "🚢"
+  },
+  {
+    "title": "🚤 Speedboat",
+    "icon": "🚤"
+  },
+  {
+    "title": "⛵ Sailboat",
+    "icon": "⛵"
+  },
+  {
+    "title": "🚡 Aerial Tramway",
+    "icon": "🚡"
+  },
+  {
+    "title": "🚠 Mountain Cableway",
+    "icon": "🚠"
+  },
+  {
+    "title": "🚟 Suspension Railway",
+    "icon": "🚟"
+  },
+  {
+    "title": "🛂 Passport Control",
+    "icon": "🛂"
+  },
+  {
+    "title": "🛃 Customs",
+    "icon": "🛃"
+  },
+  {
+    "title": "🛄 Baggage Claim",
+    "icon": "🛄"
+  },
+  {
+    "title": "🛅 Left Luggage",
+    "icon": "🛅"
+  },
+  {
+    "title": "💴 Banknote With Yen Sign",
+    "icon": "💴"
+  },
+  {
+    "title": "💶 Banknote With Euro Sign",
+    "icon": "💶"
+  },
+  {
+    "title": "💷 Banknote With Pound Sign",
+    "icon": "💷"
+  },
+  {
+    "title": "💵 Banknote With Dollar Sign",
+    "icon": "💵"
+  },
+  {
+    "title": "🗽 Statue Of Liberty",
+    "icon": "🗽"
+  },
+  {
+    "title": "🗿 Moyai",
+    "icon": "🗿"
+  },
+  {
+    "title": "🌁 Foggy",
+    "icon": "🌁"
+  },
+  {
+    "title": "🗼 Tokyo Tower",
+    "icon": "🗼"
+  },
+  {
+    "title": "⛲ Fountain",
+    "icon": "⛲"
+  },
+  {
+    "title": "🏰 European Castle",
+    "icon": "🏰"
+  },
+  {
+    "title": "🏯 Japanese Castle",
+    "icon": "🏯"
+  },
+  {
+    "title": "🌇 Sunset Over Buildings",
+    "icon": "🌇"
+  },
+  {
+    "title": "🌆 Cityscape At Dusk",
+    "icon": "🌆"
+  },
+  {
+    "title": "🌃 Night With Stars",
+    "icon": "🌃"
+  },
+  {
+    "title": "🌉 Bridge At Night",
+    "icon": "🌉"
+  },
+  {
+    "title": "🏠 House Building",
+    "icon": "🏠"
+  },
+  {
+    "title": "🏡 House With Garden",
+    "icon": "🏡"
+  },
+  {
+    "title": "🏢 Office Building",
+    "icon": "🏢"
+  },
+  {
+    "title": "🏬 Department Store",
+    "icon": "🏬"
+  },
+  {
+    "title": "🏭 Factory",
+    "icon": "🏭"
+  },
+  {
+    "title": "🏣 Japanese Post Office",
+    "icon": "🏣"
+  },
+  {
+    "title": "🏤 European Post Office",
+    "icon": "🏤"
+  },
+  {
+    "title": "🏥 Hospital",
+    "icon": "🏥"
+  },
+  {
+    "title": "🏦 Bank",
+    "icon": "🏦"
+  },
+  {
+    "title": "🏨 Hotel",
+    "icon": "🏨"
+  },
+  {
+    "title": "🏩 Love Hotel",
+    "icon": "🏩"
+  },
+  {
+    "title": "💒 Wedding",
+    "icon": "💒"
+  },
+  {
+    "title": "⛪ Church",
+    "icon": "⛪"
+  },
+  {
+    "title": "🏪 Convenience Store",
+    "icon": "🏪"
+  },
+  {
+    "title": "🏫 School",
+    "icon": "🏫"
+  },
+  {
+    "title": "🇦🇺 Flag For Australia"
+  },
+  {
+    "title": "🇦🇹 Flag For Austria"
+  },
+  {
+    "title": "🇧🇪 Flag For Belgium"
+  },
+  {
+    "title": "🇧🇷 Flag For Brazil"
+  },
+  {
+    "title": "🇨🇦 Flag For Canada"
+  },
+  {
+    "title": "🇨🇱 Flag For Chile"
+  },
+  {
+    "title": "🇨🇳 Flag For China"
+  },
+  {
+    "title": "🇨🇴 Flag For Colombia"
+  },
+  {
+    "title": "🇩🇰 Flag For Denmark"
+  },
+  {
+    "title": "🇫🇮 Flag For Finland"
+  },
+  {
+    "title": "🇫🇷 Flag For France"
+  },
+  {
+    "title": "🇩🇪 Flag For Germany"
+  },
+  {
+    "title": "🇭🇰 Flag For Hong Kong"
+  },
+  {
+    "title": "🇮🇳 Flag For India"
+  },
+  {
+    "title": "🇮🇩 Flag For Indonesia"
+  },
+  {
+    "title": "🇮🇪 Flag For Ireland"
+  },
+  {
+    "title": "🇮🇱 Flag For Israel"
+  },
+  {
+    "title": "🇮🇹 Flag For Italy"
+  },
+  {
+    "title": "🇯🇵 Flag For Japan"
+  },
+  {
+    "title": "🇰🇷 Flag For South Korea"
+  },
+  {
+    "title": "🇲🇴 Flag For Macau"
+  },
+  {
+    "title": "🇲🇾 Flag For Malaysia"
+  },
+  {
+    "title": "🇲🇽 Flag For Mexico"
+  },
+  {
+    "title": "🇳🇱 Flag For Netherlands"
+  },
+  {
+    "title": "🇳🇿 Flag For New Zealand"
+  },
+  {
+    "title": "🇳🇴 Flag For Norway"
+  },
+  {
+    "title": "🇵🇭 Flag For Philippines"
+  },
+  {
+    "title": "🇵🇱 Flag For Poland"
+  },
+  {
+    "title": "🇵🇹 Flag For Portugal"
+  },
+  {
+    "title": "🇵🇷 Flag For Puerto Rico"
+  },
+  {
+    "title": "🇷🇺 Flag For Russia"
+  },
+  {
+    "title": "🇸🇦 Flag For Saudi Arabia"
+  },
+  {
+    "title": "🇸🇬 Flag For Singapore"
+  },
+  {
+    "title": "🇿🇦 Flag For South Africa"
+  },
+  {
+    "title": "🇪🇸 Flag For Spain"
+  },
+  {
+    "title": "🇸🇪 Flag For Sweden"
+  },
+  {
+    "title": "🇨🇭 Flag For Switzerland"
+  },
+  {
+    "title": "🇹🇷 Flag For Turkey"
+  },
+  {
+    "title": "🇬🇧 Flag For Great Britain",
+    "icon": "🇬🇧"
+  },
+  {
+    "title": "🇺🇸 Flag For USA",
+    "icon": "🇺🇸"
+  },
+  {
+    "title": "🇦🇪 Flag For United Arab Emirates"
+  },
+  {
+    "title": "🇻🇳 Flag For Vietnam"
+  },
+  {
+    "title": "🇯🇵 Flags"
+  },
+  {
+    "title": "😃 People",
+    "icon": "😃"
+  },
+  {
+    "title": "🌲 Nature",
+    "icon": "🌲"
+  },
+  {
+    "title": "🍔 Food & Drink",
+    "icon": "🍔"
+  },
+  {
+    "title": "🎉 Celebration",
+    "icon": "🎉"
+  },
+  {
+    "title": "🏃🏿 Activity",
+    "icon": "🏃"
+  },
+  {
+    "title": "🌇 Travel & Places",
+    "icon": "🌇"
+  },
+  {
+    "title": "🔣 Objects & Symbols",
+    "icon": "🔣"
+  },
+  {
+    "icon": "🇯🇵"
+  },
+  {
+    "title": "🆕 New",
+    "icon": "🆕"
+  },
+  {
+    "title": "Click to share on Twitter"
+  },
+  {
+    "title": "Share on Facebook"
+  },
+  {
+    "title": "Click to share on Pinterest"
+  },
+  {
+    "title": "Click to share on Tumblr"
+  },
+  {
+    "title": "Click to share on Google+"
+  },
+  {
+    "title": "Click to share on Reddit"
+  },
+  {
+    "title": "Click to share on Pocket"
+  }
+]

@@ -1,0 +1,656 @@
+[
+  {
+    "title": "😀 Grinning Face",
+    "icon": "😀"
+  },
+  {
+    "title": "😁 Grinning Face With Smiling Eyes",
+    "icon": "😁"
+  },
+  {
+    "title": "😂 Face With Tears Of Joy",
+    "icon": "😂"
+  },
+  {
+    "title": "😃 Smiling Face With Open Mouth",
+    "icon": "😃"
+  },
+  {
+    "title": "😄 Smiling Face With Open Mouth And Smiling Eyes",
+    "icon": "😄"
+  },
+  {
+    "title": "😅 Smiling Face With Open Mouth And Cold Sweat",
+    "icon": "😅"
+  },
+  {
+    "title": "😆 Smiling Face With Open Mouth And Tightly-Closed Eyes",
+    "icon": "😆"
+  },
+  {
+    "title": "😇 Smiling Face With Halo",
+    "icon": "😇"
+  },
+  {
+    "title": "😈 Smiling Face With Horns",
+    "icon": "😈"
+  },
+  {
+    "title": "👿 Imp",
+    "icon": "👿"
+  },
+  {
+    "title": "😉 Winking Face",
+    "icon": "😉"
+  },
+  {
+    "title": "😊 Smiling Face With Smiling Eyes",
+    "icon": "😊"
+  },
+  {
+    "title": "☺️ White Smiling Face",
+    "icon": "☺️"
+  },
+  {
+    "title": "😋 Face Savouring Delicious Food",
+    "icon": "😋"
+  },
+  {
+    "title": "😌 Relieved Face",
+    "icon": "😌"
+  },
+  {
+    "title": "😍 Smiling Face With Heart-Shaped Eyes",
+    "icon": "😍"
+  },
+  {
+    "title": "😎 Smiling Face With Sunglasses",
+    "icon": "😎"
+  },
+  {
+    "title": "😏 Smirking Face",
+    "icon": "😏"
+  },
+  {
+    "title": "😐 Neutral Face",
+    "icon": "😐"
+  },
+  {
+    "title": "😑 Expressionless Face",
+    "icon": "😑"
+  },
+  {
+    "title": "😒 Unamused Face",
+    "icon": "😒"
+  },
+  {
+    "title": "😓 Face With Cold Sweat",
+    "icon": "😓"
+  },
+  {
+    "title": "😔 Pensive Face",
+    "icon": "😔"
+  },
+  {
+    "title": "😕 Confused Face",
+    "icon": "😕"
+  },
+  {
+    "title": "😖 Confounded Face",
+    "icon": "😖"
+  },
+  {
+    "title": "😗 Kissing Face",
+    "icon": "😗"
+  },
+  {
+    "title": "😘 Face Throwing A Kiss",
+    "icon": "😘"
+  },
+  {
+    "title": "😙 Kissing Face With Smiling Eyes",
+    "icon": "😙"
+  },
+  {
+    "title": "😚Kissing Face With Closed Eyes",
+    "icon": "😚"
+  },
+  {
+    "title": "😛 Face With Stuck-Out Tongue",
+    "icon": "😛"
+  },
+  {
+    "title": "😜 Face With Stuck-Out Tongue And Winking Eye",
+    "icon": "😜"
+  },
+  {
+    "title": "😝 Face With Stuck-Out Tongue And Tightly-Closed Eyes",
+    "icon": "😝"
+  },
+  {
+    "title": "😞 Disappointed Face",
+    "icon": "😞"
+  },
+  {
+    "title": "😟 Worried Face",
+    "icon": "😟"
+  },
+  {
+    "title": "😠 Angry Face",
+    "icon": "😠"
+  },
+  {
+    "title": "😡 Pouting Face",
+    "icon": "😡"
+  },
+  {
+    "title": "😢 Crying Face",
+    "icon": "😢"
+  },
+  {
+    "title": "😣 Persevering Face",
+    "icon": "😣"
+  },
+  {
+    "title": "😤 Face With Look Of Triumph",
+    "icon": "😤"
+  },
+  {
+    "title": "😥 Disappointed But Relieved Face",
+    "icon": "😥"
+  },
+  {
+    "title": "😦 Frowning Face With Open Mouth",
+    "icon": "😦"
+  },
+  {
+    "title": "😧 Anguished Face",
+    "icon": "😧"
+  },
+  {
+    "title": "😨 Fearful Face",
+    "icon": "😨"
+  },
+  {
+    "title": "😩 Weary Face",
+    "icon": "😩"
+  },
+  {
+    "title": "😪 Sleepy Face",
+    "icon": "😪"
+  },
+  {
+    "title": "😫 Tired Face",
+    "icon": "😫"
+  },
+  {
+    "title": "😬 Grimacing Face",
+    "icon": "😬"
+  },
+  {
+    "title": "😭 Loudly Crying Face",
+    "icon": "😭"
+  },
+  {
+    "title": "😮 Face With Open Mouth",
+    "icon": "😮"
+  },
+  {
+    "title": "😯 Hushed Face",
+    "icon": "😯"
+  },
+  {
+    "title": "😰 Face With Open Mouth And Cold Sweat",
+    "icon": "😰"
+  },
+  {
+    "title": "😱 Face Screaming In Fear",
+    "icon": "😱"
+  },
+  {
+    "title": "😲 Astonished Face",
+    "icon": "😲"
+  },
+  {
+    "title": "😳 Flushed Face",
+    "icon": "😳"
+  },
+  {
+    "title": "😴 Sleeping Face",
+    "icon": "😴"
+  },
+  {
+    "title": "😵 Dizzy Face",
+    "icon": "😵"
+  },
+  {
+    "title": "😶 Face Without Mouth",
+    "icon": "😶"
+  },
+  {
+    "title": "😷 Face With Medical Mask",
+    "icon": "😷"
+  },
+  {
+    "title": "😸 Grinning Cat Face With Smiling Eyes",
+    "icon": "😸"
+  },
+  {
+    "title": "😹 Cat Face With Tears Of Joy",
+    "icon": "😹"
+  },
+  {
+    "title": "😺 Smiling Cat Face With Open Mouth",
+    "icon": "😺"
+  },
+  {
+    "title": "😻 Smiling Cat Face With Heart-Shaped Eyes",
+    "icon": "😻"
+  },
+  {
+    "title": "😼 Cat Face With Wry Smile",
+    "icon": "😼"
+  },
+  {
+    "title": "😽 Kissing Cat Face With Closed Eyes",
+    "icon": "😽"
+  },
+  {
+    "title": "😾 Pouting Cat Face",
+    "icon": "😾"
+  },
+  {
+    "title": "😿 Crying Cat Face",
+    "icon": "😿"
+  },
+  {
+    "title": "🙀 Weary Cat Face",
+    "icon": "🙀"
+  },
+  {
+    "title": "👣 Footprints",
+    "icon": "👣"
+  },
+  {
+    "title": "👤 Bust In Silhouette",
+    "icon": "👤"
+  },
+  {
+    "title": "👥 Busts In Silhouette",
+    "icon": "👥"
+  },
+  {
+    "title": "👦 Boy",
+    "icon": "👦"
+  },
+  {
+    "title": "👧 Girl",
+    "icon": "👧"
+  },
+  {
+    "title": "👨 Man",
+    "icon": "👨"
+  },
+  {
+    "title": "👩 Woman",
+    "icon": "👩"
+  },
+  {
+    "title": "👨‍👩‍👦 Family (Man, Woman, Boy)"
+  },
+  {
+    "title": "👨‍👩‍👧 Family (Man, Woman, Girl)"
+  },
+  {
+    "title": "👪 Family",
+    "icon": "👪"
+  },
+  {
+    "title": "👨‍👩‍👦‍👦 Family (Man, Woman, Boy, Boy)"
+  },
+  {
+    "title": "👨‍👩‍👧‍👧 Family (Man, Woman, Girl, Girl)"
+  },
+  {
+    "title": "👩‍👩‍👦 Family (Woman, Woman, Boy)"
+  },
+  {
+    "title": "👩‍👩‍👧 Family (Woman, Woman, Girl)"
+  },
+  {
+    "title": "👩‍👩‍👧‍👦 Family (Woman, Woman, Girl, Boy)"
+  },
+  {
+    "title": "👩‍👩‍👦‍👦 Family (Woman, Woman, Boy, Boy)"
+  },
+  {
+    "title": "👩‍👩‍👧‍👧 Family (Woman, Woman, Girl, Girl)"
+  },
+  {
+    "title": "👨‍👨‍👦 Family (Man, Man, Boy)"
+  },
+  {
+    "title": "👨‍👨‍👧 Family (Man, Man, Girl)"
+  },
+  {
+    "title": "👨‍👨‍👧‍👦 Family (Man, Man, Girl, Boy)"
+  },
+  {
+    "title": "👨‍👨‍👦‍👦 Family (Man, Man, Boy, Boy)"
+  },
+  {
+    "title": "👨‍👨‍👧‍👧 Family (Man, Man, Girl, Girl)"
+  },
+  {
+    "title": "👫 Man And Woman Holding Hands",
+    "icon": "👫"
+  },
+  {
+    "title": "👬 Two Men Holding Hands",
+    "icon": "👬"
+  },
+  {
+    "title": "👭 Two Women Holding Hands",
+    "icon": "👭"
+  },
+  {
+    "title": "👮 Police Officer",
+    "icon": "👮"
+  },
+  {
+    "title": "👯 Woman With Bunny Ears",
+    "icon": "👯"
+  },
+  {
+    "title": "👰 Bride With Veil",
+    "icon": "👰"
+  },
+  {
+    "title": "👱 Person With Blond Hair",
+    "icon": "👱"
+  },
+  {
+    "title": "👲 Man With Gua Pi Mao",
+    "icon": "👲"
+  },
+  {
+    "title": "👳 Man With Turban",
+    "icon": "👳"
+  },
+  {
+    "title": "👴 Older Man",
+    "icon": "👴"
+  },
+  {
+    "title": "👵 Older Woman",
+    "icon": "👵"
+  },
+  {
+    "title": "👶 Baby",
+    "icon": "👶"
+  },
+  {
+    "title": "👷 Construction Worker",
+    "icon": "👷"
+  },
+  {
+    "title": "👸 Princess",
+    "icon": "👸"
+  },
+  {
+    "title": "💂 Guardsman",
+    "icon": "💂"
+  },
+  {
+    "title": "👼 Baby Angel",
+    "icon": "👼"
+  },
+  {
+    "title": "🎅 Father Christmas",
+    "icon": "🎅"
+  },
+  {
+    "title": "👻 Ghost",
+    "icon": "👻"
+  },
+  {
+    "title": "👹 Japanese Ogre",
+    "icon": "👹"
+  },
+  {
+    "title": "👺 Japanese Goblin",
+    "icon": "👺"
+  },
+  {
+    "title": "💩 Pile Of Poo",
+    "icon": "💩"
+  },
+  {
+    "title": "💀 Skull",
+    "icon": "💀"
+  },
+  {
+    "title": "👽 Extraterrestrial Alien",
+    "icon": "👽"
+  },
+  {
+    "title": "👾 Alien Monster",
+    "icon": "👾"
+  },
+  {
+    "title": "🙇 Person Bowing Deeply",
+    "icon": "🙇"
+  },
+  {
+    "title": "💁 Information Desk Person",
+    "icon": "💁"
+  },
+  {
+    "title": "🙅 Face With No Good Gesture",
+    "icon": "🙅"
+  },
+  {
+    "title": "🙆 Face With Ok Gesture",
+    "icon": "🙆"
+  },
+  {
+    "title": "🙋 Happy Person Raising One Hand",
+    "icon": "🙋"
+  },
+  {
+    "title": "🙎 Person With Pouting Face",
+    "icon": "🙎"
+  },
+  {
+    "title": "🙍 Person Frowning",
+    "icon": "🙍"
+  },
+  {
+    "title": "💆 Face Massage",
+    "icon": "💆"
+  },
+  {
+    "title": "💇 Haircut",
+    "icon": "💇"
+  },
+  {
+    "title": "💑 Couple With Heart",
+    "icon": "💑"
+  },
+  {
+    "title": "👩‍❤️‍👩 Couple With Heart (Woman, Woman)",
+    "icon": "👩‍❤️‍👩"
+  },
+  {
+    "title": "👨‍❤️‍👨 Couple With Heart (Man, Man)",
+    "icon": "👨‍❤️‍👨"
+  },
+  {
+    "title": "💏 Kiss",
+    "icon": "💏"
+  },
+  {
+    "title": "👩‍❤️‍💋‍👩 Kiss (Woman, Woman)",
+    "icon": "👩‍❤️‍💋‍👩"
+  },
+  {
+    "title": "👨‍❤️‍💋‍👨 Kiss (Man, Man)",
+    "icon": "👨‍❤️‍💋‍👨"
+  },
+  {
+    "title": "🙌 Person Raising Both Hands In Celebration",
+    "icon": "🙌"
+  },
+  {
+    "title": "👏 Clapping Hands Sign",
+    "icon": "👏"
+  },
+  {
+    "title": "👂 Ear",
+    "icon": "👂"
+  },
+  {
+    "title": "👀 Eyes",
+    "icon": "👀"
+  },
+  {
+    "title": "👃 Nose",
+    "icon": "👃"
+  },
+  {
+    "title": "👄 Mouth",
+    "icon": "👄"
+  },
+  {
+    "title": "💋 Kiss Mark",
+    "icon": "💋"
+  },
+  {
+    "title": "👅 Tongue",
+    "icon": "👅"
+  },
+  {
+    "title": "💅 Nail Polish",
+    "icon": "💅"
+  },
+  {
+    "title": "👋 Waving Hand Sign",
+    "icon": "👋"
+  },
+  {
+    "title": "👍 Thumbs Up Sign",
+    "icon": "👍"
+  },
+  {
+    "title": "👎 Thumbs Down Sign",
+    "icon": "👎"
+  },
+  {
+    "title": "☝️ White Up Pointing Index",
+    "icon": "☝️"
+  },
+  {
+    "title": "👆 White Up Pointing Backhand Index",
+    "icon": "👆"
+  },
+  {
+    "title": "👇 White Down Pointing Backhand Index",
+    "icon": "👇"
+  },
+  {
+    "title": "👈 White Left Pointing Backhand Index",
+    "icon": "👈"
+  },
+  {
+    "title": "👉 White Right Pointing Backhand Index",
+    "icon": "👉"
+  },
+  {
+    "title": "👌 Ok Hand Sign",
+    "icon": "👌"
+  },
+  {
+    "title": "✌️ Victory Hand",
+    "icon": "✌️"
+  },
+  {
+    "title": "👊 Fisted Hand Sign",
+    "icon": "👊"
+  },
+  {
+    "title": "✊ Raised Fist",
+    "icon": "✊"
+  },
+  {
+    "title": "✋ Raised Hand",
+    "icon": "✋"
+  },
+  {
+    "title": "💪 Flexed Biceps",
+    "icon": "💪"
+  },
+  {
+    "title": "👐 Open Hands Sign",
+    "icon": "👐"
+  },
+  {
+    "title": "🙏 Person With Folded Hands",
+    "icon": "🙏"
+  },
+  {
+    "title": "😃 People",
+    "icon": "😃"
+  },
+  {
+    "title": "🌲 Nature",
+    "icon": "🌲"
+  },
+  {
+    "title": "🍔 Food & Drink",
+    "icon": "🍔"
+  },
+  {
+    "title": "🎉 Celebration",
+    "icon": "🎉"
+  },
+  {
+    "title": "🏃🏿 Activity",
+    "icon": "🏃"
+  },
+  {
+    "title": "🌇 Travel & Places",
+    "icon": "🌇"
+  },
+  {
+    "title": "🔣 Objects & Symbols",
+    "icon": "🔣"
+  },
+  {
+    "icon": "🇯🇵"
+  },
+  {
+    "title": "🆕 New",
+    "icon": "🆕"
+  },
+  {
+    "title": "Click to share on Twitter"
+  },
+  {
+    "title": "Share on Facebook"
+  },
+  {
+    "title": "Click to share on Pinterest"
+  },
+  {
+    "title": "Click to share on Tumblr"
+  },
+  {
+    "title": "Click to share on Google+"
+  },
+  {
+    "title": "Click to share on Reddit"
+  },
+  {
+    "title": "Click to share on Pocket"
+  }
+]

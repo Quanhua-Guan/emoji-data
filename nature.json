@@ -1,0 +1,558 @@
+[
+  {
+    "title": "🌱 Seedling",
+    "icon": "🌱"
+  },
+  {
+    "title": "🌲 Evergreen Tree",
+    "icon": "🌲"
+  },
+  {
+    "title": "🌳 Deciduous Tree",
+    "icon": "🌳"
+  },
+  {
+    "title": "🌴 Palm Tree",
+    "icon": "🌴"
+  },
+  {
+    "title": "🌵 Cactus",
+    "icon": "🌵"
+  },
+  {
+    "title": "🌷 Tulip",
+    "icon": "🌷"
+  },
+  {
+    "title": "🌸 Cherry Blossom",
+    "icon": "🌸"
+  },
+  {
+    "title": "🌹 Rose",
+    "icon": "🌹"
+  },
+  {
+    "title": "🌺 Hibiscus",
+    "icon": "🌺"
+  },
+  {
+    "title": "🌻 Sunflower",
+    "icon": "🌻"
+  },
+  {
+    "title": "🌼 Blossom",
+    "icon": "🌼"
+  },
+  {
+    "title": "💐 Bouquet",
+    "icon": "💐"
+  },
+  {
+    "title": "🌾 Ear Of Rice",
+    "icon": "🌾"
+  },
+  {
+    "title": "🌿 Herb",
+    "icon": "🌿"
+  },
+  {
+    "title": "🍀 Four Leaf Clover",
+    "icon": "🍀"
+  },
+  {
+    "title": "🍁 Maple Leaf",
+    "icon": "🍁"
+  },
+  {
+    "title": "🍂 Fallen Leaf",
+    "icon": "🍂"
+  },
+  {
+    "title": "🍃 Leaf Fluttering In Wind",
+    "icon": "🍃"
+  },
+  {
+    "title": "🍄 Mushroom",
+    "icon": "🍄"
+  },
+  {
+    "title": "🌰 Chestnut",
+    "icon": "🌰"
+  },
+  {
+    "title": "🐀 Rat",
+    "icon": "🐀"
+  },
+  {
+    "title": "🐁 Mouse",
+    "icon": "🐁"
+  },
+  {
+    "title": "🐭 Mouse Face",
+    "icon": "🐭"
+  },
+  {
+    "title": "🐹 Hamster Face",
+    "icon": "🐹"
+  },
+  {
+    "title": "🐂 Ox",
+    "icon": "🐂"
+  },
+  {
+    "title": "🐃 Water Buffalo",
+    "icon": "🐃"
+  },
+  {
+    "title": "🐄 Cow",
+    "icon": "🐄"
+  },
+  {
+    "title": "🐮 Cow Face",
+    "icon": "🐮"
+  },
+  {
+    "title": "🐅 Tiger",
+    "icon": "🐅"
+  },
+  {
+    "title": "🐆 Leopard",
+    "icon": "🐆"
+  },
+  {
+    "title": "🐯 Tiger Face",
+    "icon": "🐯"
+  },
+  {
+    "title": "🐇 Rabbit",
+    "icon": "🐇"
+  },
+  {
+    "title": "🐰 Rabbit Face",
+    "icon": "🐰"
+  },
+  {
+    "title": "🐈 Cat",
+    "icon": "🐈"
+  },
+  {
+    "title": "🐱 Cat Face",
+    "icon": "🐱"
+  },
+  {
+    "title": "🐎 Horse",
+    "icon": "🐎"
+  },
+  {
+    "title": "🐴 Horse Face",
+    "icon": "🐴"
+  },
+  {
+    "title": "🐏 Ram",
+    "icon": "🐏"
+  },
+  {
+    "title": "🐑 Sheep",
+    "icon": "🐑"
+  },
+  {
+    "title": "🐐 Goat",
+    "icon": "🐐"
+  },
+  {
+    "title": "🐓 Rooster",
+    "icon": "🐓"
+  },
+  {
+    "title": "🐔 Chicken",
+    "icon": "🐔"
+  },
+  {
+    "title": "🐤 Baby Chick",
+    "icon": "🐤"
+  },
+  {
+    "title": "🐣 Hatching Chick",
+    "icon": "🐣"
+  },
+  {
+    "title": "🐥 Front-Facing Baby Chick",
+    "icon": "🐥"
+  },
+  {
+    "title": "🐦 Bird",
+    "icon": "🐦"
+  },
+  {
+    "title": "🐧 Penguin",
+    "icon": "🐧"
+  },
+  {
+    "title": "🐘 Elephant",
+    "icon": "🐘"
+  },
+  {
+    "title": "🐪 Dromedary Camel",
+    "icon": "🐪"
+  },
+  {
+    "title": "🐫 Bactrian Camel",
+    "icon": "🐫"
+  },
+  {
+    "title": "🐗 Boar",
+    "icon": "🐗"
+  },
+  {
+    "title": "🐖 Pig",
+    "icon": "🐖"
+  },
+  {
+    "title": "🐷 Pig Face",
+    "icon": "🐷"
+  },
+  {
+    "title": "🐽 Pig Nose",
+    "icon": "🐽"
+  },
+  {
+    "title": "🐕 Dog",
+    "icon": "🐕"
+  },
+  {
+    "title": "🐩 Poodle",
+    "icon": "🐩"
+  },
+  {
+    "title": "🐶 Dog Face",
+    "icon": "🐶"
+  },
+  {
+    "title": "🐺 Wolf Face",
+    "icon": "🐺"
+  },
+  {
+    "title": "🐻 Bear Face",
+    "icon": "🐻"
+  },
+  {
+    "title": "🐨 Koala",
+    "icon": "🐨"
+  },
+  {
+    "title": "🐼 Panda Face",
+    "icon": "🐼"
+  },
+  {
+    "title": "🐵 Monkey Face",
+    "icon": "🐵"
+  },
+  {
+    "title": "🙈 See-No-Evil Monkey",
+    "icon": "🙈"
+  },
+  {
+    "title": "🙉 Hear-No-Evil Monkey",
+    "icon": "🙉"
+  },
+  {
+    "title": "🙊 Speak-No-Evil Monkey",
+    "icon": "🙊"
+  },
+  {
+    "title": "🐒 Monkey",
+    "icon": "🐒"
+  },
+  {
+    "title": "🐉 Dragon",
+    "icon": "🐉"
+  },
+  {
+    "title": "🐲 Dragon Face",
+    "icon": "🐲"
+  },
+  {
+    "title": "🐊 Crocodile",
+    "icon": "🐊"
+  },
+  {
+    "title": "🐍 Snake",
+    "icon": "🐍"
+  },
+  {
+    "title": "🐢 Turtle",
+    "icon": "🐢"
+  },
+  {
+    "title": "🐸 Frog Face",
+    "icon": "🐸"
+  },
+  {
+    "title": "🐋 Whale",
+    "icon": "🐋"
+  },
+  {
+    "title": "🐳 Spouting Whale",
+    "icon": "🐳"
+  },
+  {
+    "title": "🐬 Dolphin",
+    "icon": "🐬"
+  },
+  {
+    "title": "🐙 Octopus",
+    "icon": "🐙"
+  },
+  {
+    "title": "🐟 Fish",
+    "icon": "🐟"
+  },
+  {
+    "title": "🐠 Tropical Fish",
+    "icon": "🐠"
+  },
+  {
+    "title": "🐡 Blowfish",
+    "icon": "🐡"
+  },
+  {
+    "title": "🐚 Spiral Shell",
+    "icon": "🐚"
+  },
+  {
+    "title": "🐌 Snail",
+    "icon": "🐌"
+  },
+  {
+    "title": "🐛 Bug",
+    "icon": "🐛"
+  },
+  {
+    "title": "🐜 Ant",
+    "icon": "🐜"
+  },
+  {
+    "title": "🐝 Honeybee",
+    "icon": "🐝"
+  },
+  {
+    "title": "🐞 Lady Beetle",
+    "icon": "🐞"
+  },
+  {
+    "title": "🐾 Paw Prints",
+    "icon": "🐾"
+  },
+  {
+    "title": "⚡️ High Voltage Sign",
+    "icon": "⚡️"
+  },
+  {
+    "title": "🔥 Fire",
+    "icon": "🔥"
+  },
+  {
+    "title": "🌙 Crescent Moon",
+    "icon": "🌙"
+  },
+  {
+    "title": "☀️ Black Sun With Rays",
+    "icon": "☀️"
+  },
+  {
+    "title": "⛅ Sun Behind Cloud",
+    "icon": "⛅"
+  },
+  {
+    "title": "☁️ Cloud",
+    "icon": "☁️"
+  },
+  {
+    "title": "💧 Droplet",
+    "icon": "💧"
+  },
+  {
+    "title": "💦 Splashing Sweat Symbol",
+    "icon": "💦"
+  },
+  {
+    "title": "☔️ Umbrella With Rain Drops",
+    "icon": "☔️"
+  },
+  {
+    "title": "💨 Dash Symbol",
+    "icon": "💨"
+  },
+  {
+    "title": "❄️ Snowflake",
+    "icon": "❄️"
+  },
+  {
+    "title": "🌟 Glowing Star",
+    "icon": "🌟"
+  },
+  {
+    "title": "⭐ White Medium Star",
+    "icon": "⭐"
+  },
+  {
+    "title": "🌠 Shooting Star",
+    "icon": "🌠"
+  },
+  {
+    "title": "🌄 Sunrise Over Mountains",
+    "icon": "🌄"
+  },
+  {
+    "title": "🌅 Sunrise",
+    "icon": "🌅"
+  },
+  {
+    "title": "🌈 Rainbow",
+    "icon": "🌈"
+  },
+  {
+    "title": "🌊 Water Wave",
+    "icon": "🌊"
+  },
+  {
+    "title": "🌋 Volcano",
+    "icon": "🌋"
+  },
+  {
+    "title": "🌌 Milky Way",
+    "icon": "🌌"
+  },
+  {
+    "title": "🗻 Mount Fuji",
+    "icon": "🗻"
+  },
+  {
+    "title": "🗾 Silhouette Of Japan",
+    "icon": "🗾"
+  },
+  {
+    "title": "🌐 Globe With Meridians",
+    "icon": "🌐"
+  },
+  {
+    "title": "🌍 Earth Globe Europe-Africa",
+    "icon": "🌍"
+  },
+  {
+    "title": "🌎 Earth Globe Americas",
+    "icon": "🌎"
+  },
+  {
+    "title": "🌏 Earth Globe Asia-Australia",
+    "icon": "🌏"
+  },
+  {
+    "title": "🌑 New Moon Symbol",
+    "icon": "🌑"
+  },
+  {
+    "title": "🌒 Waxing Crescent Moon Symbol",
+    "icon": "🌒"
+  },
+  {
+    "title": "🌓 First Quarter Moon Symbol",
+    "icon": "🌓"
+  },
+  {
+    "title": "🌔 Waxing Gibbous Moon Symbol",
+    "icon": "🌔"
+  },
+  {
+    "title": "🌕 Full Moon Symbol",
+    "icon": "🌕"
+  },
+  {
+    "title": "🌖 Waning Gibbous Moon Symbol",
+    "icon": "🌖"
+  },
+  {
+    "title": "🌗 Last Quarter Moon Symbol",
+    "icon": "🌗"
+  },
+  {
+    "title": "🌘 Waning Crescent Moon Symbol",
+    "icon": "🌘"
+  },
+  {
+    "title": "🌚 New Moon With Face",
+    "icon": "🌚"
+  },
+  {
+    "title": "🌝 Full Moon With Face",
+    "icon": "🌝"
+  },
+  {
+    "title": "🌛 First Quarter Moon With Face",
+    "icon": "🌛"
+  },
+  {
+    "title": "🌜 Last Quarter Moon With Face",
+    "icon": "🌜"
+  },
+  {
+    "title": "🌞 Sun With Face",
+    "icon": "🌞"
+  },
+  {
+    "title": "😃 People",
+    "icon": "😃"
+  },
+  {
+    "title": "🌲 Nature",
+    "icon": "🌲"
+  },
+  {
+    "title": "🍔 Food & Drink",
+    "icon": "🍔"
+  },
+  {
+    "title": "🎉 Celebration",
+    "icon": "🎉"
+  },
+  {
+    "title": "🏃🏿 Activity",
+    "icon": "🏃"
+  },
+  {
+    "title": "🌇 Travel & Places",
+    "icon": "🌇"
+  },
+  {
+    "title": "🔣 Objects & Symbols",
+    "icon": "🔣"
+  },
+  {
+    "icon": "🇯🇵"
+  },
+  {
+    "title": "🆕 New",
+    "icon": "🆕"
+  },
+  {
+    "title": "Click to share on Twitter"
+  },
+  {
+    "title": "Share on Facebook"
+  },
+  {
+    "title": "Click to share on Pinterest"
+  },
+  {
+    "title": "Click to share on Tumblr"
+  },
+  {
+    "title": "Click to share on Google+"
+  },
+  {
+    "title": "Click to share on Reddit"
+  },
+  {
+    "title": "Click to share on Pocket"
+  }
+]

@@ -1,0 +1,1438 @@
+[
+  {
+    "title": "⌚ Watch",
+    "icon": "⌚"
+  },
+  {
+    "title": "📱 Mobile Phone",
+    "icon": "📱"
+  },
+  {
+    "title": "📲 Mobile Phone With Rightwards Arrow At Left",
+    "icon": "📲"
+  },
+  {
+    "title": "💻 Personal Computer",
+    "icon": "💻"
+  },
+  {
+    "title": "⏰ Alarm Clock",
+    "icon": "⏰"
+  },
+  {
+    "title": "⏳ Hourglass With Flowing Sand",
+    "icon": "⏳"
+  },
+  {
+    "title": "⌛ Hourglass",
+    "icon": "⌛"
+  },
+  {
+    "title": "📷 Camera",
+    "icon": "📷"
+  },
+  {
+    "title": "📹 Video Camera",
+    "icon": "📹"
+  },
+  {
+    "title": "🎥 Movie Camera",
+    "icon": "🎥"
+  },
+  {
+    "title": "📺 Television",
+    "icon": "📺"
+  },
+  {
+    "title": "📻 Radio",
+    "icon": "📻"
+  },
+  {
+    "title": "📟 Pager",
+    "icon": "📟"
+  },
+  {
+    "title": "📞 Telephone Receiver",
+    "icon": "📞"
+  },
+  {
+    "title": "☎️ Black Telephone",
+    "icon": "☎️"
+  },
+  {
+    "title": "📠 Fax Machine",
+    "icon": "📠"
+  },
+  {
+    "title": "💽 Minidisc",
+    "icon": "💽"
+  },
+  {
+    "title": "💾 Floppy Disk",
+    "icon": "💾"
+  },
+  {
+    "title": "💿 Optical Disc",
+    "icon": "💿"
+  },
+  {
+    "title": "📀 DVD",
+    "icon": "📀"
+  },
+  {
+    "title": "📼 Videocassette",
+    "icon": "📼"
+  },
+  {
+    "title": "🔋 Battery",
+    "icon": "🔋"
+  },
+  {
+    "title": "🔌 Electric Plug",
+    "icon": "🔌"
+  },
+  {
+    "title": "💡 Electric Light Bulb",
+    "icon": "💡"
+  },
+  {
+    "title": "🔦 Electric Torch",
+    "icon": "🔦"
+  },
+  {
+    "title": "📡 Satellite Antenna",
+    "icon": "📡"
+  },
+  {
+    "title": "💳 Credit Card",
+    "icon": "💳"
+  },
+  {
+    "title": "💸 Money With Wings",
+    "icon": "💸"
+  },
+  {
+    "title": "💰 Money Bag",
+    "icon": "💰"
+  },
+  {
+    "title": "💎 Gem Stone",
+    "icon": "💎"
+  },
+  {
+    "title": "🌂 Closed Umbrella",
+    "icon": "🌂"
+  },
+  {
+    "title": "👝 Pouch",
+    "icon": "👝"
+  },
+  {
+    "title": "👛 Purse",
+    "icon": "👛"
+  },
+  {
+    "title": "👜 Handbag",
+    "icon": "👜"
+  },
+  {
+    "title": "💼 Briefcase",
+    "icon": "💼"
+  },
+  {
+    "title": "🎒 School Satchel",
+    "icon": "🎒"
+  },
+  {
+    "title": "💄 Lipstick",
+    "icon": "💄"
+  },
+  {
+    "title": "👓 Eyeglasses",
+    "icon": "👓"
+  },
+  {
+    "title": "👒 Womans Hat",
+    "icon": "👒"
+  },
+  {
+    "title": "👡 Womans Sandal",
+    "icon": "👡"
+  },
+  {
+    "title": "👠 High-Heeled Shoe",
+    "icon": "👠"
+  },
+  {
+    "title": "👢 Womans Boots",
+    "icon": "👢"
+  },
+  {
+    "title": "👞 Mans Shoe",
+    "icon": "👞"
+  },
+  {
+    "title": "👟 Athletic Shoe",
+    "icon": "👟"
+  },
+  {
+    "title": "👙 Bikini",
+    "icon": "👙"
+  },
+  {
+    "title": "👗 Dress",
+    "icon": "👗"
+  },
+  {
+    "title": "👘 Kimono",
+    "icon": "👘"
+  },
+  {
+    "title": "👚 Womans Clothes",
+    "icon": "👚"
+  },
+  {
+    "title": "👕 T-Shirt",
+    "icon": "👕"
+  },
+  {
+    "title": "👔 Necktie",
+    "icon": "👔"
+  },
+  {
+    "title": "👖 Jeans",
+    "icon": "👖"
+  },
+  {
+    "title": "🚪 Door",
+    "icon": "🚪"
+  },
+  {
+    "title": "🚿 Shower",
+    "icon": "🚿"
+  },
+  {
+    "title": "🛁 Bathtub",
+    "icon": "🛁"
+  },
+  {
+    "title": "🚽 Toilet",
+    "icon": "🚽"
+  },
+  {
+    "title": "💈 Barber Pole",
+    "icon": "💈"
+  },
+  {
+    "title": "💉 Syringe",
+    "icon": "💉"
+  },
+  {
+    "title": "💊 Pill",
+    "icon": "💊"
+  },
+  {
+    "title": "🔬 Microscope",
+    "icon": "🔬"
+  },
+  {
+    "title": "🔭 Telescope",
+    "icon": "🔭"
+  },
+  {
+    "title": "🔮 Crystal Ball",
+    "icon": "🔮"
+  },
+  {
+    "title": "🔧 Wrench",
+    "icon": "🔧"
+  },
+  {
+    "title": "🔪 Hocho",
+    "icon": "🔪"
+  },
+  {
+    "title": "🔩 Nut And Bolt",
+    "icon": "🔩"
+  },
+  {
+    "title": "🔨 Hammer",
+    "icon": "🔨"
+  },
+  {
+    "title": "💣 Bomb",
+    "icon": "💣"
+  },
+  {
+    "title": "🚬 Smoking Symbol",
+    "icon": "🚬"
+  },
+  {
+    "title": "🔫 Pistol",
+    "icon": "🔫"
+  },
+  {
+    "title": "🔖 Bookmark",
+    "icon": "🔖"
+  },
+  {
+    "title": "📰 Newspaper",
+    "icon": "📰"
+  },
+  {
+    "title": "🔑 Key",
+    "icon": "🔑"
+  },
+  {
+    "title": "✉️ Envelope",
+    "icon": "✉️"
+  },
+  {
+    "title": "📩 Envelope With Downwards Arrow Above",
+    "icon": "📩"
+  },
+  {
+    "title": "📨 Incoming Envelope",
+    "icon": "📨"
+  },
+  {
+    "title": "📧 E-Mail Symbol",
+    "icon": "📧"
+  },
+  {
+    "title": "📥 Inbox Tray",
+    "icon": "📥"
+  },
+  {
+    "title": "📤 Outbox Tray",
+    "icon": "📤"
+  },
+  {
+    "title": "📦 Package",
+    "icon": "📦"
+  },
+  {
+    "title": "📯 Postal Horn",
+    "icon": "📯"
+  },
+  {
+    "title": "📮 Postbox",
+    "icon": "📮"
+  },
+  {
+    "title": "📪 Closed Mailbox With Lowered Flag",
+    "icon": "📪"
+  },
+  {
+    "title": "📫 Closed Mailbox With Raised Flag",
+    "icon": "📫"
+  },
+  {
+    "title": "📬 Open Mailbox With Raised Flag",
+    "icon": "📬"
+  },
+  {
+    "title": "📭 Open Mailbox With Lowered Flag",
+    "icon": "📭"
+  },
+  {
+    "title": "📄 Page Facing Up",
+    "icon": "📄"
+  },
+  {
+    "title": "📃 Page With Curl",
+    "icon": "📃"
+  },
+  {
+    "title": "📑 Bookmark Tabs",
+    "icon": "📑"
+  },
+  {
+    "title": "📈 Chart With Upwards Trend",
+    "icon": "📈"
+  },
+  {
+    "title": "📉 Chart With Downwards Trend",
+    "icon": "📉"
+  },
+  {
+    "title": "📊 Bar Chart",
+    "icon": "📊"
+  },
+  {
+    "title": "📅 Calendar",
+    "icon": "📅"
+  },
+  {
+    "title": "📆 Tear-Off Calendar",
+    "icon": "📆"
+  },
+  {
+    "title": "🔅 Low Brightness Symbol",
+    "icon": "🔅"
+  },
+  {
+    "title": "🔆 High Brightness Symbol",
+    "icon": "🔆"
+  },
+  {
+    "title": "📜 Scroll",
+    "icon": "📜"
+  },
+  {
+    "title": "📋 Clipboard",
+    "icon": "📋"
+  },
+  {
+    "title": "📖 Open Book",
+    "icon": "📖"
+  },
+  {
+    "title": "📓 Notebook",
+    "icon": "📓"
+  },
+  {
+    "title": "📔 Notebook With Decorative Cover",
+    "icon": "📔"
+  },
+  {
+    "title": "📒 Ledger",
+    "icon": "📒"
+  },
+  {
+    "title": "📕 Closed Book",
+    "icon": "📕"
+  },
+  {
+    "title": "📗 Green Book",
+    "icon": "📗"
+  },
+  {
+    "title": "📘 Blue Book",
+    "icon": "📘"
+  },
+  {
+    "title": "📙 Orange Book",
+    "icon": "📙"
+  },
+  {
+    "title": "📚 Books",
+    "icon": "📚"
+  },
+  {
+    "title": "📇 Card Index",
+    "icon": "📇"
+  },
+  {
+    "title": "🔗 Link Symbol",
+    "icon": "🔗"
+  },
+  {
+    "title": "📎 Paperclip",
+    "icon": "📎"
+  },
+  {
+    "title": "📌 Pushpin",
+    "icon": "📌"
+  },
+  {
+    "title": "✂️ Black Scissors",
+    "icon": "✂️"
+  },
+  {
+    "title": "📐 Triangular Ruler",
+    "icon": "📐"
+  },
+  {
+    "title": "📍 Round Pushpin",
+    "icon": "📍"
+  },
+  {
+    "title": "📏 Straight Ruler",
+    "icon": "📏"
+  },
+  {
+    "title": "🚩 Triangular Flag On Post",
+    "icon": "🚩"
+  },
+  {
+    "title": "📁 File Folder",
+    "icon": "📁"
+  },
+  {
+    "title": "📂 Open File Folder",
+    "icon": "📂"
+  },
+  {
+    "title": "✒️ Black Nib",
+    "icon": "✒️"
+  },
+  {
+    "title": "✏️ Pencil",
+    "icon": "✏️"
+  },
+  {
+    "title": "📝 Memo",
+    "icon": "📝"
+  },
+  {
+    "title": "🔏 Lock With Ink Pen",
+    "icon": "🔏"
+  },
+  {
+    "title": "🔐 Closed Lock With Key",
+    "icon": "🔐"
+  },
+  {
+    "title": "🔒 Lock",
+    "icon": "🔒"
+  },
+  {
+    "title": "🔓 Open Lock",
+    "icon": "🔓"
+  },
+  {
+    "title": "📣 Cheering Megaphone",
+    "icon": "📣"
+  },
+  {
+    "title": "📢 Public Address Loudspeaker",
+    "icon": "📢"
+  },
+  {
+    "title": "🔈 Speaker",
+    "icon": "🔈"
+  },
+  {
+    "title": "🔉 Speaker With One Sound Wave",
+    "icon": "🔉"
+  },
+  {
+    "title": "🔊 Speaker With Three Sound Waves",
+    "icon": "🔊"
+  },
+  {
+    "title": "🔇 Speaker With Cancellation Stroke",
+    "icon": "🔇"
+  },
+  {
+    "title": "💤 Sleeping Symbol",
+    "icon": "💤"
+  },
+  {
+    "title": "🔔 Bell",
+    "icon": "🔔"
+  },
+  {
+    "title": "🔕 Bell With Cancellation Stroke",
+    "icon": "🔕"
+  },
+  {
+    "title": "💭 Thought Balloon",
+    "icon": "💭"
+  },
+  {
+    "title": "💬 Speech Balloon",
+    "icon": "💬"
+  },
+  {
+    "title": "🚸 Children Crossing",
+    "icon": "🚸"
+  },
+  {
+    "title": "🔍 Left-Pointing Magnifying Glass",
+    "icon": "🔍"
+  },
+  {
+    "title": "🔎 Right-Pointing Magnifying Glass",
+    "icon": "🔎"
+  },
+  {
+    "title": "🚫 No Entry Sign",
+    "icon": "🚫"
+  },
+  {
+    "title": "⛔ No Entry",
+    "icon": "⛔"
+  },
+  {
+    "title": "📛 Name Badge",
+    "icon": "📛"
+  },
+  {
+    "title": "🚷 No Pedestrians",
+    "icon": "🚷"
+  },
+  {
+    "title": "🚯 Do Not Litter Symbol",
+    "icon": "🚯"
+  },
+  {
+    "title": "🚳 No Bicycles",
+    "icon": "🚳"
+  },
+  {
+    "title": "🚱 Non-Potable Water Symbol",
+    "icon": "🚱"
+  },
+  {
+    "title": "📵 No Mobile Phones",
+    "icon": "📵"
+  },
+  {
+    "title": "🔞 No One Under Eighteen Symbol",
+    "icon": "🔞"
+  },
+  {
+    "title": "🉑 Circled Ideograph Accept",
+    "icon": "🉑"
+  },
+  {
+    "title": "🉐 Circled Ideograph Advantage",
+    "icon": "🉐"
+  },
+  {
+    "title": "💮 White Flower",
+    "icon": "💮"
+  },
+  {
+    "title": "㊙️ Circled Ideograph Secret",
+    "icon": "㊙️"
+  },
+  {
+    "title": "㊗️ Circled Ideograph Congratulation",
+    "icon": "㊗️"
+  },
+  {
+    "title": "🈴 Squared CJK Unified Ideograph-5408",
+    "icon": "🈴"
+  },
+  {
+    "title": "🈵 Squared CJK Unified Ideograph-6E80",
+    "icon": "🈵"
+  },
+  {
+    "title": "🈲 Squared CJK Unified Ideograph-7981",
+    "icon": "🈲"
+  },
+  {
+    "title": "🈶 Squared CJK Unified Ideograph-6709",
+    "icon": "🈶"
+  },
+  {
+    "title": "🈚 Squared CJK Unified Ideograph-7121",
+    "icon": "🈚"
+  },
+  {
+    "title": "🈸 Squared CJK Unified Ideograph-7533",
+    "icon": "🈸"
+  },
+  {
+    "title": "🈺 Squared CJK Unified Ideograph-55B6",
+    "icon": "🈺"
+  },
+  {
+    "title": "🈷 Squared CJK Unified Ideograph-6708",
+    "icon": "🈷"
+  },
+  {
+    "title": "🈹 Squared CJK Unified Ideograph-5272",
+    "icon": "🈹"
+  },
+  {
+    "title": "🈳 Squared CJK Unified Ideograph-7A7A",
+    "icon": "🈳"
+  },
+  {
+    "title": "🈂 Squared Katakana Sa",
+    "icon": "🈂"
+  },
+  {
+    "title": "🈁 Squared Katakana Koko",
+    "icon": "🈁"
+  },
+  {
+    "title": "🈯 Squared CJK Unified Ideograph-6307",
+    "icon": "🈯"
+  },
+  {
+    "title": "💹 Chart With Upwards Trend And Yen Sign",
+    "icon": "💹"
+  },
+  {
+    "title": "❇️ Sparkle",
+    "icon": "❇️"
+  },
+  {
+    "title": "✳️ Eight Spoked Asterisk",
+    "icon": "✳️"
+  },
+  {
+    "title": "❎ Negative Squared Cross Mark",
+    "icon": "❎"
+  },
+  {
+    "title": "✅ White Heavy Check Mark",
+    "icon": "✅"
+  },
+  {
+    "title": "✴️ Eight Pointed Black Star",
+    "icon": "✴️"
+  },
+  {
+    "title": "📳 Vibration Mode",
+    "icon": "📳"
+  },
+  {
+    "title": "📴 Mobile Phone Off",
+    "icon": "📴"
+  },
+  {
+    "title": "🆚 Squared VS",
+    "icon": "🆚"
+  },
+  {
+    "title": "🅰 Negative Squared Latin Capital Letter A",
+    "icon": "🅰"
+  },
+  {
+    "title": "🅱 Negative Squared Latin Capital Letter B",
+    "icon": "🅱"
+  },
+  {
+    "title": "🆎 Negative Squared AB",
+    "icon": "🆎"
+  },
+  {
+    "title": "🆑 Squared CL",
+    "icon": "🆑"
+  },
+  {
+    "title": "🅾 Negative Squared Latin Capital Letter O",
+    "icon": "🅾"
+  },
+  {
+    "title": "🆘 Squared SOS",
+    "icon": "🆘"
+  },
+  {
+    "title": "🆔 Squared ID",
+    "icon": "🆔"
+  },
+  {
+    "title": "🅿️ Negative Squared Latin Capital Letter P",
+    "icon": "🅿️"
+  },
+  {
+    "title": "🚾 Water Closet",
+    "icon": "🚾"
+  },
+  {
+    "title": "🆒 Squared Cool",
+    "icon": "🆒"
+  },
+  {
+    "title": "🆓 Squared Free",
+    "icon": "🆓"
+  },
+  {
+    "title": "🆕 Squared New",
+    "icon": "🆕"
+  },
+  {
+    "title": "🆖 Squared Ng",
+    "icon": "🆖"
+  },
+  {
+    "title": "🆗 Squared OK",
+    "icon": "🆗"
+  },
+  {
+    "title": "🆙 Squared Up With Exclamation Mark",
+    "icon": "🆙"
+  },
+  {
+    "title": "🏧 Automated Teller Machine",
+    "icon": "🏧"
+  },
+  {
+    "title": "♈ Aries",
+    "icon": "♈"
+  },
+  {
+    "title": "♉ Taurus",
+    "icon": "♉"
+  },
+  {
+    "title": "♊ Gemini",
+    "icon": "♊"
+  },
+  {
+    "title": "♋ Cancer",
+    "icon": "♋"
+  },
+  {
+    "title": "♌ Leo",
+    "icon": "♌"
+  },
+  {
+    "title": "♍ Virgo",
+    "icon": "♍"
+  },
+  {
+    "title": "♎ Libra",
+    "icon": "♎"
+  },
+  {
+    "title": "♏ Scorpius",
+    "icon": "♏"
+  },
+  {
+    "title": "♐ Sagittarius",
+    "icon": "♐"
+  },
+  {
+    "title": "♑ Capricorn",
+    "icon": "♑"
+  },
+  {
+    "title": "♒ Aquarius",
+    "icon": "♒"
+  },
+  {
+    "title": "♓ Pisces",
+    "icon": "♓"
+  },
+  {
+    "title": "🚻 Restroom",
+    "icon": "🚻"
+  },
+  {
+    "title": "🚹 Mens Symbol",
+    "icon": "🚹"
+  },
+  {
+    "title": "🚺 Womens Symbol",
+    "icon": "🚺"
+  },
+  {
+    "title": "🚼 Baby Symbol",
+    "icon": "🚼"
+  },
+  {
+    "title": "♿ Wheelchair Symbol",
+    "icon": "♿"
+  },
+  {
+    "title": "🚰 Potable Water Symbol",
+    "icon": "🚰"
+  },
+  {
+    "title": "🚭 No Smoking Symbol",
+    "icon": "🚭"
+  },
+  {
+    "title": "🚮 Put Litter In Its Place Symbol",
+    "icon": "🚮"
+  },
+  {
+    "title": "▶️ Black Right-Pointing Triangle",
+    "icon": "▶️"
+  },
+  {
+    "title": "◀️ Black Left-Pointing Triangle",
+    "icon": "◀️"
+  },
+  {
+    "title": "🔼 Up-Pointing Small Red Triangle",
+    "icon": "🔼"
+  },
+  {
+    "title": "🔽 Down-Pointing Small Red Triangle",
+    "icon": "🔽"
+  },
+  {
+    "title": "⏩ Black Right-Pointing Double Triangle",
+    "icon": "⏩"
+  },
+  {
+    "title": "⏪ Black Left-Pointing Double Triangle",
+    "icon": "⏪"
+  },
+  {
+    "title": "⏫ Black Up-Pointing Double Triangle",
+    "icon": "⏫"
+  },
+  {
+    "title": "⏬ Black Down-Pointing Double Triangle",
+    "icon": "⏬"
+  },
+  {
+    "title": "➡️ Black Rightwards Arrow",
+    "icon": "➡️"
+  },
+  {
+    "title": "⬅️ Leftwards Black Arrow",
+    "icon": "⬅️"
+  },
+  {
+    "title": "⬆️ Upwards Black Arrow",
+    "icon": "⬆️"
+  },
+  {
+    "title": "⬇️ Downwards Black Arrow",
+    "icon": "⬇️"
+  },
+  {
+    "title": "↗️ North East Arrow",
+    "icon": "↗️"
+  },
+  {
+    "title": "↘️ South East Arrow",
+    "icon": "↘️"
+  },
+  {
+    "title": "↙️ South West Arrow",
+    "icon": "↙️"
+  },
+  {
+    "title": "↖️ North West Arrow",
+    "icon": "↖️"
+  },
+  {
+    "title": "↕️ Up Down Arrow",
+    "icon": "↕️"
+  },
+  {
+    "title": "↔️ Left Right Arrow",
+    "icon": "↔️"
+  },
+  {
+    "title": "🔄 Anticlockwise Downwards And Upwards Open Circle Arrows",
+    "icon": "🔄"
+  },
+  {
+    "title": "↪️ Rightwards Arrow With Hook",
+    "icon": "↪️"
+  },
+  {
+    "title": "↩️ Leftwards Arrow With Hook",
+    "icon": "↩️"
+  },
+  {
+    "title": "⤴️ Arrow Pointing Rightwards Then Curving Upwards",
+    "icon": "⤴️"
+  },
+  {
+    "title": "⤵️ Arrow Pointing Rightwards Then Curving Downwards",
+    "icon": "⤵️"
+  },
+  {
+    "title": "🔀 Twisted Rightwards Arrows",
+    "icon": "🔀"
+  },
+  {
+    "title": "🔁 Clockwise Rightwards And Leftwards Open Circle Arrows",
+    "icon": "🔁"
+  },
+  {
+    "title": "🔂 Clockwise Rightwards And Leftwards Open Circle Arrows With Circled One Overlay",
+    "icon": "🔂"
+  },
+  {
+    "title": "#️⃣ Hash Key",
+    "icon": "#️⃣"
+  },
+  {
+    "title": "0️⃣ Keycap 0",
+    "icon": "0️⃣"
+  },
+  {
+    "title": "1️⃣ Keycap 1",
+    "icon": "1️⃣"
+  },
+  {
+    "title": "2️⃣ Keycap 2",
+    "icon": "2️⃣"
+  },
+  {
+    "title": "3️⃣ Keycap 3",
+    "icon": "3️⃣"
+  },
+  {
+    "title": "4️⃣ Keycap 4",
+    "icon": "4️⃣"
+  },
+  {
+    "title": "5️⃣ Keycap 5",
+    "icon": "5️⃣"
+  },
+  {
+    "title": "6️⃣ Keycap 6",
+    "icon": "6️⃣"
+  },
+  {
+    "title": "7️⃣ Keycap 7",
+    "icon": "7️⃣"
+  },
+  {
+    "title": "8️⃣ Keycap 8",
+    "icon": "8️⃣"
+  },
+  {
+    "title": "9️⃣ Keycap 9",
+    "icon": "9️⃣"
+  },
+  {
+    "title": "🔟 Keycap Ten",
+    "icon": "🔟"
+  },
+  {
+    "title": "🔢 Input Symbol For Numbers",
+    "icon": "🔢"
+  },
+  {
+    "title": "🔤 Input Symbol For Latin Letters",
+    "icon": "🔤"
+  },
+  {
+    "title": "🔡 Input Symbol For Latin Small Letters",
+    "icon": "🔡"
+  },
+  {
+    "title": "🔠 Input Symbol For Latin Capital Letters",
+    "icon": "🔠"
+  },
+  {
+    "title": "ℹ️ Information Source",
+    "icon": "ℹ️"
+  },
+  {
+    "title": "📶 Antenna With Bars",
+    "icon": "📶"
+  },
+  {
+    "title": "🎦 Cinema",
+    "icon": "🎦"
+  },
+  {
+    "title": "🔣 Input Symbol For Symbols",
+    "icon": "🔣"
+  },
+  {
+    "title": "➕ Heavy Plus Sign",
+    "icon": "➕"
+  },
+  {
+    "title": "➖ Heavy Minus Sign",
+    "icon": "➖"
+  },
+  {
+    "title": "〰 Wavy Dash",
+    "icon": "〰"
+  },
+  {
+    "title": "➗ Heavy Division Sign",
+    "icon": "➗"
+  },
+  {
+    "title": "✖ Heavy Multiplication X",
+    "icon": "✖"
+  },
+  {
+    "title": "✔ Heavy Check Mark",
+    "icon": "✔"
+  },
+  {
+    "title": "🔃 Clockwise Downwards And Upwards Open Circle Arrows",
+    "icon": "🔃"
+  },
+  {
+    "title": "™ Trade Mark Sign",
+    "icon": "™"
+  },
+  {
+    "title": "© Copyright Sign",
+    "icon": "©"
+  },
+  {
+    "title": "® Registered Sign",
+    "icon": "®"
+  },
+  {
+    "title": "💱 Currency Exchange",
+    "icon": "💱"
+  },
+  {
+    "title": "💲Heavy Dollar Sign",
+    "icon": "💲"
+  },
+  {
+    "title": "➰ Curly Loop",
+    "icon": "➰"
+  },
+  {
+    "title": "➿ Double Curly Loop",
+    "icon": "➿"
+  },
+  {
+    "title": "〽️ Part Alternation Mark",
+    "icon": "〽️"
+  },
+  {
+    "title": "❗ Heavy Exclamation Mark Symbol",
+    "icon": "❗"
+  },
+  {
+    "title": "❓ Black Question Mark Ornament",
+    "icon": "❓"
+  },
+  {
+    "title": "❕ White Exclamation Mark Ornament",
+    "icon": "❕"
+  },
+  {
+    "title": "❔ White Question Mark Ornament",
+    "icon": "❔"
+  },
+  {
+    "title": "‼️ Double Exclamation Mark",
+    "icon": "‼️"
+  },
+  {
+    "title": "⁉️ Exclamation Question Mark",
+    "icon": "⁉️"
+  },
+  {
+    "title": "❌ Cross Mark",
+    "icon": "❌"
+  },
+  {
+    "title": "⭕ Heavy Large Circle",
+    "icon": "⭕"
+  },
+  {
+    "title": "💯 Hundred Points Symbol",
+    "icon": "💯"
+  },
+  {
+    "title": "🔚 End With Leftwards Arrow Above",
+    "icon": "🔚"
+  },
+  {
+    "title": "🔙 Back With Leftwards Arrow Above",
+    "icon": "🔙"
+  },
+  {
+    "title": "🔛 On With Exclamation Mark With Left Right Arrow Above",
+    "icon": "🔛"
+  },
+  {
+    "title": "🔝 Top With Upwards Arrow Above",
+    "icon": "🔝"
+  },
+  {
+    "title": "🔜 Soon With Rightwards Arrow Above",
+    "icon": "🔜"
+  },
+  {
+    "title": "🌀 Cyclone",
+    "icon": "🌀"
+  },
+  {
+    "title": "Ⓜ️ Circled Latin Capital Letter M",
+    "icon": "Ⓜ️"
+  },
+  {
+    "title": "⛎ Ophiuchus",
+    "icon": "⛎"
+  },
+  {
+    "title": "🔯 Six Pointed Star With Middle Dot",
+    "icon": "🔯"
+  },
+  {
+    "title": "🔰 Japanese Symbol For Beginner",
+    "icon": "🔰"
+  },
+  {
+    "title": "🔱 Trident Emblem",
+    "icon": "🔱"
+  },
+  {
+    "title": "⚠️ Warning Sign",
+    "icon": "⚠️"
+  },
+  {
+    "title": "♨️ Hot Springs",
+    "icon": "♨️"
+  },
+  {
+    "title": "♻️ Black Universal Recycling Symbol",
+    "icon": "♻️"
+  },
+  {
+    "title": "💢 Anger Symbol",
+    "icon": "💢"
+  },
+  {
+    "title": "💠 Diamond Shape With A Dot Inside",
+    "icon": "💠"
+  },
+  {
+    "title": "♠️ Black Spade Suit",
+    "icon": "♠️"
+  },
+  {
+    "title": "♥️ Black Heart Suit",
+    "icon": "♥️"
+  },
+  {
+    "title": "♣️ Black Club Suit",
+    "icon": "♣️"
+  },
+  {
+    "title": "♦️ Black Diamond Suit",
+    "icon": "♦️"
+  },
+  {
+    "title": "☑️ Ballot Box With Check",
+    "icon": "☑️"
+  },
+  {
+    "title": "⚪ Medium White Circle",
+    "icon": "⚪"
+  },
+  {
+    "title": "⚫ Medium Black Circle",
+    "icon": "⚫"
+  },
+  {
+    "title": "🔘 Radio Button",
+    "icon": "🔘"
+  },
+  {
+    "title": "🔴 Large Red Circle",
+    "icon": "🔴"
+  },
+  {
+    "title": "🔵 Large Blue Circle",
+    "icon": "🔵"
+  },
+  {
+    "title": "🔺 Up-Pointing Red Triangle",
+    "icon": "🔺"
+  },
+  {
+    "title": "🔻 Down-Pointing Red Triangle",
+    "icon": "🔻"
+  },
+  {
+    "title": "🔸 Small Orange Diamond",
+    "icon": "🔸"
+  },
+  {
+    "title": "🔹 Small Blue Diamond",
+    "icon": "🔹"
+  },
+  {
+    "title": "🔶 Large Orange Diamond",
+    "icon": "🔶"
+  },
+  {
+    "title": "🔷 Large Blue Diamond",
+    "icon": "🔷"
+  },
+  {
+    "title": "▪️ Black Small Square",
+    "icon": "▪️"
+  },
+  {
+    "title": "▫️ White Small Square",
+    "icon": "▫️"
+  },
+  {
+    "title": "⬛ Black Large Square",
+    "icon": "⬛"
+  },
+  {
+    "title": "⬜ White Large Square",
+    "icon": "⬜"
+  },
+  {
+    "title": "◼️ Black Medium Square",
+    "icon": "◼️"
+  },
+  {
+    "title": "◻️ White Medium Square",
+    "icon": "◻️"
+  },
+  {
+    "title": "◾️ Black Medium Small Square",
+    "icon": "◾️"
+  },
+  {
+    "title": "◽ White Medium Small Square",
+    "icon": "◽"
+  },
+  {
+    "title": "🔲 Black Square Button",
+    "icon": "🔲"
+  },
+  {
+    "title": "🔳 White Square Button",
+    "icon": "🔳"
+  },
+  {
+    "title": "🕐 Clock Face One O’Clock",
+    "icon": "🕐"
+  },
+  {
+    "title": "🕜 Clock Face One-Thirty",
+    "icon": "🕜"
+  },
+  {
+    "title": "🕑 Clock Face Two O’Clock",
+    "icon": "🕑"
+  },
+  {
+    "title": "🕝 Clock Face Two-Thirty",
+    "icon": "🕝"
+  },
+  {
+    "title": "🕒 Clock Face Three O’Clock",
+    "icon": "🕒"
+  },
+  {
+    "title": "🕞 Clock Face Three-Thirty",
+    "icon": "🕞"
+  },
+  {
+    "title": "🕓 Clock Face Four O’Clock",
+    "icon": "🕓"
+  },
+  {
+    "title": "🕟 Clock Face Four-Thirty",
+    "icon": "🕟"
+  },
+  {
+    "title": "🕔 Clock Face Five O’Clock",
+    "icon": "🕔"
+  },
+  {
+    "title": "🕠 Clock Face Five-Thirty",
+    "icon": "🕠"
+  },
+  {
+    "title": "🕕 Clock Face Six O’Clock",
+    "icon": "🕕"
+  },
+  {
+    "title": "🕡 Clock Face Six-Thirty",
+    "icon": "🕡"
+  },
+  {
+    "title": "🕖 Clock Face Seven O’Clock",
+    "icon": "🕖"
+  },
+  {
+    "title": "🕢 Clock Face Seven-Thirty",
+    "icon": "🕢"
+  },
+  {
+    "title": "🕗 Clock Face Eight O’Clock",
+    "icon": "🕗"
+  },
+  {
+    "title": "🕣 Clock Face Eight-Thirty",
+    "icon": "🕣"
+  },
+  {
+    "title": "🕘 Clock Face Nine O’Clock",
+    "icon": "🕘"
+  },
+  {
+    "title": "🕤 Clock Face Nine-Thirty",
+    "icon": "🕤"
+  },
+  {
+    "title": "🕙 Clock Face Ten O’Clock",
+    "icon": "🕙"
+  },
+  {
+    "title": "🕥 Clock Face Ten-Thirty",
+    "icon": "🕥"
+  },
+  {
+    "title": "🕚 Clock Face Eleven O’Clock",
+    "icon": "🕚"
+  },
+  {
+    "title": "🕦 Clock Face Eleven-Thirty",
+    "icon": "🕦"
+  },
+  {
+    "title": "🕛 Clock Face Twelve O’Clock",
+    "icon": "🕛"
+  },
+  {
+    "title": "🕧 Clock Face Twelve-Thirty",
+    "icon": "🕧"
+  },
+  {
+    "title": "😃 People",
+    "icon": "😃"
+  },
+  {
+    "title": "🌲 Nature",
+    "icon": "🌲"
+  },
+  {
+    "title": "🍔 Food & Drink",
+    "icon": "🍔"
+  },
+  {
+    "title": "🎉 Celebration",
+    "icon": "🎉"
+  },
+  {
+    "title": "🏃🏿 Activity",
+    "icon": "🏃"
+  },
+  {
+    "title": "🌇 Travel & Places",
+    "icon": "🌇"
+  },
+  {
+    "title": "🔣 Objects & Symbols",
+    "icon": "🔣"
+  },
+  {
+    "icon": "🇯🇵"
+  },
+  {
+    "title": "🆕 New",
+    "icon": "🆕"
+  },
+  {
+    "title": "Click to share on Twitter"
+  },
+  {
+    "title": "Share on Facebook"
+  },
+  {
+    "title": "Click to share on Pinterest"
+  },
+  {
+    "title": "Click to share on Tumblr"
+  },
+  {
+    "title": "Click to share on Google+"
+  },
+  {
+    "title": "Click to share on Reddit"
+  },
+  {
+    "title": "Click to share on Pocket"
+  }
+]
