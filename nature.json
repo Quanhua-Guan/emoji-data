@@ -1,558 +1,482 @@
 [
   {
-    "title": "🌱 Seedling",
+    "title": "Seedling",
     "icon": "🌱"
   },
   {
-    "title": "🌲 Evergreen Tree",
+    "title": "Evergreen Tree",
     "icon": "🌲"
   },
   {
-    "title": "🌳 Deciduous Tree",
+    "title": "Deciduous Tree",
     "icon": "🌳"
   },
   {
-    "title": "🌴 Palm Tree",
+    "title": "Palm Tree",
     "icon": "🌴"
   },
   {
-    "title": "🌵 Cactus",
+    "title": "Cactus",
     "icon": "🌵"
   },
   {
-    "title": "🌷 Tulip",
+    "title": "Tulip",
     "icon": "🌷"
   },
   {
-    "title": "🌸 Cherry Blossom",
+    "title": "Cherry Blossom",
     "icon": "🌸"
   },
   {
-    "title": "🌹 Rose",
+    "title": "Rose",
     "icon": "🌹"
   },
   {
-    "title": "🌺 Hibiscus",
+    "title": "Hibiscus",
     "icon": "🌺"
   },
   {
-    "title": "🌻 Sunflower",
+    "title": "Sunflower",
     "icon": "🌻"
   },
   {
-    "title": "🌼 Blossom",
+    "title": "Blossom",
     "icon": "🌼"
   },
   {
-    "title": "💐 Bouquet",
+    "title": "Bouquet",
     "icon": "💐"
   },
   {
-    "title": "🌾 Ear Of Rice",
+    "title": "Ear Of Rice",
     "icon": "🌾"
   },
   {
-    "title": "🌿 Herb",
+    "title": "Herb",
     "icon": "🌿"
   },
   {
-    "title": "🍀 Four Leaf Clover",
+    "title": "Four Leaf Clover",
     "icon": "🍀"
   },
   {
-    "title": "🍁 Maple Leaf",
+    "title": "Maple Leaf",
     "icon": "🍁"
   },
   {
-    "title": "🍂 Fallen Leaf",
+    "title": "Fallen Leaf",
     "icon": "🍂"
   },
   {
-    "title": "🍃 Leaf Fluttering In Wind",
+    "title": "Leaf Fluttering In Wind",
     "icon": "🍃"
   },
   {
-    "title": "🍄 Mushroom",
+    "title": "Mushroom",
     "icon": "🍄"
   },
   {
-    "title": "🌰 Chestnut",
+    "title": "Chestnut",
     "icon": "🌰"
   },
   {
-    "title": "🐀 Rat",
+    "title": "Rat",
     "icon": "🐀"
   },
   {
-    "title": "🐁 Mouse",
+    "title": "Mouse",
     "icon": "🐁"
   },
   {
-    "title": "🐭 Mouse Face",
+    "title": "Mouse Face",
     "icon": "🐭"
   },
   {
-    "title": "🐹 Hamster Face",
+    "title": "Hamster Face",
     "icon": "🐹"
   },
   {
-    "title": "🐂 Ox",
+    "title": "Ox",
     "icon": "🐂"
   },
   {
-    "title": "🐃 Water Buffalo",
+    "title": "Water Buffalo",
     "icon": "🐃"
   },
   {
-    "title": "🐄 Cow",
+    "title": "Cow",
     "icon": "🐄"
   },
   {
-    "title": "🐮 Cow Face",
+    "title": "Cow Face",
     "icon": "🐮"
   },
   {
-    "title": "🐅 Tiger",
+    "title": "Tiger",
     "icon": "🐅"
   },
   {
-    "title": "🐆 Leopard",
+    "title": "Leopard",
     "icon": "🐆"
   },
   {
-    "title": "🐯 Tiger Face",
+    "title": "Tiger Face",
     "icon": "🐯"
   },
   {
-    "title": "🐇 Rabbit",
+    "title": "Rabbit",
     "icon": "🐇"
   },
   {
-    "title": "🐰 Rabbit Face",
+    "title": "Rabbit Face",
     "icon": "🐰"
   },
   {
-    "title": "🐈 Cat",
+    "title": "Cat",
     "icon": "🐈"
   },
   {
-    "title": "🐱 Cat Face",
+    "title": "Cat Face",
     "icon": "🐱"
   },
   {
-    "title": "🐎 Horse",
+    "title": "Horse",
     "icon": "🐎"
   },
   {
-    "title": "🐴 Horse Face",
+    "title": "Horse Face",
     "icon": "🐴"
   },
   {
-    "title": "🐏 Ram",
+    "title": "Ram",
     "icon": "🐏"
   },
   {
-    "title": "🐑 Sheep",
+    "title": "Sheep",
     "icon": "🐑"
   },
   {
-    "title": "🐐 Goat",
+    "title": "Goat",
     "icon": "🐐"
   },
   {
-    "title": "🐓 Rooster",
+    "title": "Rooster",
     "icon": "🐓"
   },
   {
-    "title": "🐔 Chicken",
+    "title": "Chicken",
     "icon": "🐔"
   },
   {
-    "title": "🐤 Baby Chick",
+    "title": "Baby Chick",
     "icon": "🐤"
   },
   {
-    "title": "🐣 Hatching Chick",
+    "title": "Hatching Chick",
     "icon": "🐣"
   },
   {
-    "title": "🐥 Front-Facing Baby Chick",
+    "title": "Front-Facing Baby Chick",
     "icon": "🐥"
   },
   {
-    "title": "🐦 Bird",
+    "title": "Bird",
     "icon": "🐦"
   },
   {
-    "title": "🐧 Penguin",
+    "title": "Penguin",
     "icon": "🐧"
   },
   {
-    "title": "🐘 Elephant",
+    "title": "Elephant",
     "icon": "🐘"
   },
   {
-    "title": "🐪 Dromedary Camel",
+    "title": "Dromedary Camel",
     "icon": "🐪"
   },
   {
-    "title": "🐫 Bactrian Camel",
+    "title": "Bactrian Camel",
     "icon": "🐫"
   },
   {
-    "title": "🐗 Boar",
+    "title": "Boar",
     "icon": "🐗"
   },
   {
-    "title": "🐖 Pig",
+    "title": "Pig",
     "icon": "🐖"
   },
   {
-    "title": "🐷 Pig Face",
+    "title": "Pig Face",
     "icon": "🐷"
   },
   {
-    "title": "🐽 Pig Nose",
+    "title": "Pig Nose",
     "icon": "🐽"
   },
   {
-    "title": "🐕 Dog",
+    "title": "Dog",
     "icon": "🐕"
   },
   {
-    "title": "🐩 Poodle",
+    "title": "Poodle",
     "icon": "🐩"
   },
   {
-    "title": "🐶 Dog Face",
+    "title": "Dog Face",
     "icon": "🐶"
   },
   {
-    "title": "🐺 Wolf Face",
+    "title": "Wolf Face",
     "icon": "🐺"
   },
   {
-    "title": "🐻 Bear Face",
+    "title": "Bear Face",
     "icon": "🐻"
   },
   {
-    "title": "🐨 Koala",
+    "title": "Koala",
     "icon": "🐨"
   },
   {
-    "title": "🐼 Panda Face",
+    "title": "Panda Face",
     "icon": "🐼"
   },
   {
-    "title": "🐵 Monkey Face",
+    "title": "Monkey Face",
     "icon": "🐵"
   },
   {
-    "title": "🙈 See-No-Evil Monkey",
+    "title": "See-No-Evil Monkey",
     "icon": "🙈"
   },
   {
-    "title": "🙉 Hear-No-Evil Monkey",
+    "title": "Hear-No-Evil Monkey",
     "icon": "🙉"
   },
   {
-    "title": "🙊 Speak-No-Evil Monkey",
+    "title": "Speak-No-Evil Monkey",
     "icon": "🙊"
   },
   {
-    "title": "🐒 Monkey",
+    "title": "Monkey",
     "icon": "🐒"
   },
   {
-    "title": "🐉 Dragon",
+    "title": "Dragon",
     "icon": "🐉"
   },
   {
-    "title": "🐲 Dragon Face",
+    "title": "Dragon Face",
     "icon": "🐲"
   },
   {
-    "title": "🐊 Crocodile",
+    "title": "Crocodile",
     "icon": "🐊"
   },
   {
-    "title": "🐍 Snake",
+    "title": "Snake",
     "icon": "🐍"
   },
   {
-    "title": "🐢 Turtle",
+    "title": "Turtle",
     "icon": "🐢"
   },
   {
-    "title": "🐸 Frog Face",
+    "title": "Frog Face",
     "icon": "🐸"
   },
   {
-    "title": "🐋 Whale",
+    "title": "Whale",
     "icon": "🐋"
   },
   {
-    "title": "🐳 Spouting Whale",
+    "title": "Spouting Whale",
     "icon": "🐳"
   },
   {
-    "title": "🐬 Dolphin",
+    "title": "Dolphin",
     "icon": "🐬"
   },
   {
-    "title": "🐙 Octopus",
+    "title": "Octopus",
     "icon": "🐙"
   },
   {
-    "title": "🐟 Fish",
+    "title": "Fish",
     "icon": "🐟"
   },
   {
-    "title": "🐠 Tropical Fish",
+    "title": "Tropical Fish",
     "icon": "🐠"
   },
   {
-    "title": "🐡 Blowfish",
+    "title": "Blowfish",
     "icon": "🐡"
   },
   {
-    "title": "🐚 Spiral Shell",
+    "title": "Spiral Shell",
     "icon": "🐚"
   },
   {
-    "title": "🐌 Snail",
+    "title": "Snail",
     "icon": "🐌"
   },
   {
-    "title": "🐛 Bug",
+    "title": "Bug",
     "icon": "🐛"
   },
   {
-    "title": "🐜 Ant",
+    "title": "Ant",
     "icon": "🐜"
   },
   {
-    "title": "🐝 Honeybee",
+    "title": "Honeybee",
     "icon": "🐝"
   },
   {
-    "title": "🐞 Lady Beetle",
+    "title": "Lady Beetle",
     "icon": "🐞"
   },
   {
-    "title": "🐾 Paw Prints",
+    "title": "Paw Prints",
     "icon": "🐾"
   },
   {
-    "title": "⚡️ High Voltage Sign",
-    "icon": "⚡️"
-  },
-  {
-    "title": "🔥 Fire",
+    "title": "Fire",
     "icon": "🔥"
   },
   {
-    "title": "🌙 Crescent Moon",
+    "title": "Crescent Moon",
     "icon": "🌙"
   },
   {
-    "title": "☀️ Black Sun With Rays",
-    "icon": "☀️"
-  },
-  {
-    "title": "⛅ Sun Behind Cloud",
+    "title": "Sun Behind Cloud",
     "icon": "⛅"
   },
   {
-    "title": "☁️ Cloud",
-    "icon": "☁️"
-  },
-  {
-    "title": "💧 Droplet",
+    "title": "Droplet",
     "icon": "💧"
   },
   {
-    "title": "💦 Splashing Sweat Symbol",
+    "title": "Splashing Sweat Symbol",
     "icon": "💦"
   },
   {
-    "title": "☔️ Umbrella With Rain Drops",
-    "icon": "☔️"
-  },
-  {
-    "title": "💨 Dash Symbol",
+    "title": "Dash Symbol",
     "icon": "💨"
   },
   {
-    "title": "❄️ Snowflake",
-    "icon": "❄️"
-  },
-  {
-    "title": "🌟 Glowing Star",
+    "title": "Glowing Star",
     "icon": "🌟"
   },
   {
-    "title": "⭐ White Medium Star",
+    "title": "White Medium Star",
     "icon": "⭐"
   },
   {
-    "title": "🌠 Shooting Star",
+    "title": "Shooting Star",
     "icon": "🌠"
   },
   {
-    "title": "🌄 Sunrise Over Mountains",
+    "title": "Sunrise Over Mountains",
     "icon": "🌄"
   },
   {
-    "title": "🌅 Sunrise",
+    "title": "Sunrise",
     "icon": "🌅"
   },
   {
-    "title": "🌈 Rainbow",
+    "title": "Rainbow",
     "icon": "🌈"
   },
   {
-    "title": "🌊 Water Wave",
+    "title": "Water Wave",
     "icon": "🌊"
   },
   {
-    "title": "🌋 Volcano",
+    "title": "Volcano",
     "icon": "🌋"
   },
   {
-    "title": "🌌 Milky Way",
+    "title": "Milky Way",
     "icon": "🌌"
   },
   {
-    "title": "🗻 Mount Fuji",
+    "title": "Mount Fuji",
     "icon": "🗻"
   },
   {
-    "title": "🗾 Silhouette Of Japan",
+    "title": "Silhouette Of Japan",
     "icon": "🗾"
   },
   {
-    "title": "🌐 Globe With Meridians",
+    "title": "Globe With Meridians",
     "icon": "🌐"
   },
   {
-    "title": "🌍 Earth Globe Europe-Africa",
+    "title": "Earth Globe Europe-Africa",
     "icon": "🌍"
   },
   {
-    "title": "🌎 Earth Globe Americas",
+    "title": "Earth Globe Americas",
     "icon": "🌎"
   },
   {
-    "title": "🌏 Earth Globe Asia-Australia",
+    "title": "Earth Globe Asia-Australia",
     "icon": "🌏"
   },
   {
-    "title": "🌑 New Moon Symbol",
+    "title": "New Moon Symbol",
     "icon": "🌑"
   },
   {
-    "title": "🌒 Waxing Crescent Moon Symbol",
+    "title": "Waxing Crescent Moon Symbol",
     "icon": "🌒"
   },
   {
-    "title": "🌓 First Quarter Moon Symbol",
+    "title": "First Quarter Moon Symbol",
     "icon": "🌓"
   },
   {
-    "title": "🌔 Waxing Gibbous Moon Symbol",
+    "title": "Waxing Gibbous Moon Symbol",
     "icon": "🌔"
   },
   {
-    "title": "🌕 Full Moon Symbol",
+    "title": "Full Moon Symbol",
     "icon": "🌕"
   },
   {
-    "title": "🌖 Waning Gibbous Moon Symbol",
+    "title": "Waning Gibbous Moon Symbol",
     "icon": "🌖"
   },
   {
-    "title": "🌗 Last Quarter Moon Symbol",
+    "title": "Last Quarter Moon Symbol",
     "icon": "🌗"
   },
   {
-    "title": "🌘 Waning Crescent Moon Symbol",
+    "title": "Waning Crescent Moon Symbol",
     "icon": "🌘"
   },
   {
-    "title": "🌚 New Moon With Face",
+    "title": "New Moon With Face",
     "icon": "🌚"
   },
   {
-    "title": "🌝 Full Moon With Face",
+    "title": "Full Moon With Face",
     "icon": "🌝"
   },
   {
-    "title": "🌛 First Quarter Moon With Face",
+    "title": "First Quarter Moon With Face",
     "icon": "🌛"
   },
   {
-    "title": "🌜 Last Quarter Moon With Face",
+    "title": "Last Quarter Moon With Face",
     "icon": "🌜"
   },
   {
-    "title": "🌞 Sun With Face",
+    "title": "Sun With Face",
     "icon": "🌞"
   },
-  {
-    "title": "😃 People",
-    "icon": "😃"
-  },
-  {
-    "title": "🌲 Nature",
-    "icon": "🌲"
-  },
-  {
-    "title": "🍔 Food & Drink",
-    "icon": "🍔"
-  },
-  {
-    "title": "🎉 Celebration",
-    "icon": "🎉"
-  },
-  {
-    "title": "🏃🏿 Activity",
-    "icon": "🏃"
-  },
-  {
-    "title": "🌇 Travel & Places",
-    "icon": "🌇"
-  },
-  {
-    "title": "🔣 Objects & Symbols",
-    "icon": "🔣"
-  },
-  {
-    "icon": "🇯🇵"
-  },
-  {
-    "title": "🆕 New",
-    "icon": "🆕"
-  },
-  {
-    "title": "Click to share on Twitter"
-  },
-  {
-    "title": "Share on Facebook"
-  },
-  {
-    "title": "Click to share on Pinterest"
-  },
-  {
-    "title": "Click to share on Tumblr"
-  },
-  {
-    "title": "Click to share on Google+"
-  },
-  {
-    "title": "Click to share on Reddit"
-  },
-  {
-    "title": "Click to share on Pocket"
-  }
 ]
